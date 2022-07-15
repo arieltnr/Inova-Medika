@@ -1,0 +1,11 @@
+Login Multi User menggunakan nip & password
+
+admin:
+11111
+admin123
+
+operator:
+22222
+operator123
+
+Nama Database: inovamedika
